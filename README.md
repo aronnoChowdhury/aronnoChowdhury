@@ -13,8 +13,6 @@ I am a passionate **Odoo ERP Expert** and **Full-Stack Developer** dedicated to 
 
 ## 🛠️ Tech Stack & Expertise
 
-I am proficient in a wide range of technologies tailored for ERP development and beyond:
-
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **ERP** | <img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" alt="Odoo"/> |
@@ -36,7 +34,7 @@ I am proficient in a wide range of technologies tailored for ERP development and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AronnoChowdhury&show_icons=true&theme=darcula&count_private=true" alt="Aronno's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronnoChowdhury&layout=compact&theme=darcula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronnoChowdhury&layout=compact&theme=darcula&count_private=true" alt="Top Languages" />
 </p>
 
 ---
@@ -47,5 +45,5 @@ Let's collaborate on Odoo projects or discuss innovative tech ideas:
 
 <p align="left">
 <a href="mailto:aronnochowdhury220@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aronnochowdhury220%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="www.linkedin.com/in/aronno-chowdhury-640376386" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/aronno-chowdhury-640376386" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
