@@ -61,4 +61,6 @@ My expertise lies in **Odoo customization, module development, backend logic, an
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3500&pause=1000&color=875A7B&center=true&vCenter=true&width=550&lines=⭐+Thanks+for+visiting+my+GitHub+Profile;Odoo+ERP+Specialist+%7C+Full+Stack+Developer;Feel+free+to+explore+my+projects+🚀" />
+</p>
