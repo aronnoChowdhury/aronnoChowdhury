@@ -2,8 +2,7 @@
 ### Odoo ERP Specialist & Full-Stack Developer
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aronnoChowdhury&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronnoChowdhury&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I+am+Aronno+Ahmed+Chowdhury;Odoo+ERP+Specialist;Full+Stack+Developer;Python+%7C+OWL+JS+Developer" />
 </p>
 
 ---
