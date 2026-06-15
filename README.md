@@ -20,7 +20,7 @@ My expertise lies in **Odoo customization, module development, backend logic, an
 | Domain | Technologies |
 |------|-------------|
 | ERP | ![Odoo](https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white) |
-| Back-End | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
+| Back-End | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | Front-End | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | Tools & OS | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
@@ -31,7 +31,7 @@ My expertise lies in **Odoo customization, module development, backend logic, an
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,dotnet,postgres,git,linux,vscode&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=py,js,postgres,git,linux,vscode&theme=dark"/>
   </a>
 </p>
 
