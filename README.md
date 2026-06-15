@@ -1,15 +1,14 @@
 # 👋 Hi there, I'm Aronno Chowdhury
-### Odoo ERP Specialist & Full-Stack Developer
+### Junior Odoo Full-Stack Developer
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I+am+Aronno+Ahmed+Chowdhury;Odoo+ERP+Specialist;Full+Stack+Developer;Python+%7C+OWL+JS+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I+am+Aronno+Ahmed+Chowdhury;Junior+Odoo+Full+Stack+Developer;Python+%7C+OWL+JS+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-I am a passionate **Odoo ERP** and **Odoo Full Stack Developer** dedicated to building scalable and efficient business solutions.
+I am a passionate **Odoo Full-Stack** Developer dedicated to building scalable and efficient business solutions.
 
 My expertise lies in **Odoo customization, module development, backend logic, and frontend UI improvements**. I enjoy solving complex technical problems and building efficient systems that help businesses automate workflows.
 
