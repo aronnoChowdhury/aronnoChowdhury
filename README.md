@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a passionate **Odoo ERP Expert** and **Odoo Developer** dedicated to building scalable and efficient business solutions.
+I am a passionate **Odoo ERP Expert** and **Odoo Full Stack Developer** dedicated to building scalable and efficient business solutions.
 
 My expertise lies in **Odoo customization, module development, backend logic, and frontend UI improvements**. I enjoy solving complex technical problems and building efficient systems that help businesses automate workflows.
 
